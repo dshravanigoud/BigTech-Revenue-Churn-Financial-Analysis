@@ -16,7 +16,6 @@ A multi-output financial analysis model examining a BigTech company's quarterly 
 - [Output 3 — Annual Projections & CAGR](#output-3--annual-projections--cagr)
 - [Key Insights](#key-insights)
 - [Skills Demonstrated](#skills-demonstrated)
-- [About the Author](#about-the-author)
 
 ---
 
