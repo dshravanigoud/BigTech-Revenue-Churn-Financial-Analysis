@@ -35,7 +35,7 @@ A multi-output financial analysis model examining a BigTech company's quarterly 
 
 Tracks revenue, EBITDA, net income, EPS, and free cash flow across 9 quarters (Q1 2021 – Q1 2023), with QoQ growth rates and margin analysis.
 
-![Quarterly Financial Overview](output1_quarterly_financials.png)
+![Quarterly Financial Overview](images/output1_quarterly_financials.png)
 
 **Highlights:**
 - Revenue grew steadily from **$501M (Q1 2021)** to **$571M (Q1 2023)**
@@ -49,7 +49,7 @@ Tracks revenue, EBITDA, net income, EPS, and free cash flow across 9 quarters (Q
 
 Models subscriber lifecycle — new users, attrition, net change, and churn rate — on a quarterly basis.
 
-![Customer Trends & Churn](output2_customer_trends.png)
+![Customer Trends & Churn](images/output2_customer_trends.png)
 
 **Highlights:**
 - Churn spiked dramatically in **Q1–Q2 2022** (14.9% and 36.4%) following a price increase from **$33 → $34/quarter**
@@ -63,7 +63,7 @@ Models subscriber lifecycle — new users, attrition, net change, and churn rate
 
 Forward-looking model projecting FY2023E and FY2024E financials, with a 2020–2024E CAGR summary.
 
-![Annual Projections](output3_annual_projections.png)
+![Annual Projections](images/output3_annual_projections.png)
 
 **Highlights:**
 - Revenue projected to reach **$2.63B by FY2024E**, up 15% YoY
