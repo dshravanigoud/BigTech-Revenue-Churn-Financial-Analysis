@@ -93,14 +93,4 @@ Forward-looking model projecting FY2023E and FY2024E financials, with a 2020–2
 - **Margin & Leverage Analysis** — EBITDA margin, Net Income margin, Debt/EBITDA trending
 - **Excel Best Practices** — Structured outputs, formula-driven calculations, print-ready formatting
 
----
 
-## 👩‍💼 About the Author
-
-**Shravani Goud Dindu** — Financial Analyst | FP&A | Financial Modeling | SAP | SQL | Power BI
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dshravanigoud/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)](https://github.com/dshravanigoud)
-
----
-> *This model is built for educational and portfolio demonstration purposes. It is not financial advice.*
